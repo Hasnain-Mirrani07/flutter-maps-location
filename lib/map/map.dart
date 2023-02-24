@@ -75,7 +75,7 @@ class _MapLocationScreenState extends State<MapLocationScreen> {
         height: MediaQuery.of(context).size.height,
         child: GoogleMap(
           initialCameraPosition: const CameraPosition(
-            target: LatLng(13.007480, 77.598657),
+            target: LatLng(13.007481, 77.598656),
             zoom: 10,
           ),
           mapToolbarEnabled: true,
