@@ -123,7 +123,7 @@ class _MapLocationScreenState extends State<MapLocationScreen> {
       ),
       floatingActionButton: FloatingActionButton.extended(
         onPressed: _goToTheLake,
-        label: const Text('To the lakee!'),
+        label: const Text('To the lake!'),
         icon: const Icon(Icons.directions_boat),
       ),
     );
